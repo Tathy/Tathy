@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🌱 Estudando Python e Ciência de Dados
+- 🌱 Estudando Python e Ciência de Dados, Power BI
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
 
