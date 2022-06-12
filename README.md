@@ -10,7 +10,6 @@
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="55" width="45" margin-right=40px src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/PowerBI.png?raw=true" />
 </div>
 
 ##
