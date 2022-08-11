@@ -3,7 +3,7 @@
 - 🌱 Estudando Python e Ciência de Dados
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Formação Data Science (Alura)
+- 🏚️ Projeto atual: Pesquisa sobre dados com CEAPS
 
 <div>
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
