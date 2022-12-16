@@ -1,9 +1,10 @@
 ## Olá!
 
-- 🌱 Estudando Python e Ciência de Dados
+- 🌱 Estudando Python, Ciência de Dados e Machine Learning
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Cursos da Formação Machine Learning (Alura)
+- 🏚️ Projeto atual: Recomendador de músicas com API do Spotify
+- :open_book: Curso: Formação Machine Learning (Alura)
 
 <div>
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
