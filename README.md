@@ -3,7 +3,7 @@
 - 🌱 Estudando Python, Ciência de Dados e Machine Learning
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Recomendador de músicas com API do Spotify
+- 🏚️ Projeto atual: Análise comportamental de usuários de cartão de crédito (clustering)
 - :open_book: Curso: Formação Machine Learning (Alura)
 
 ##
