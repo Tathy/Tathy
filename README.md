@@ -4,7 +4,7 @@
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
 - 🏚️ Projeto atual: Análise comportamental de usuários de cartão de crédito (clustering)
-- :open_book: Curso: Formação Machine Learning (Alura)
+- :open_book: Curso atual: Machine Learning - validação de modelos (Alura)
 
 ##
 
