@@ -3,7 +3,7 @@
 - 🌱 Estudando Python, Ciência de Dados e Machine Learning
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Análise comportamental de usuários de cartão de crédito (clustering)
+- 🏚️ Projeto atual: Estudo sobre validação de modelos (Machine Learning / Data Science)
 - :open_book: Curso atual: Machine Learning - validação de modelos (Alura)
 
 ##
