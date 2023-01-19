@@ -3,8 +3,8 @@
 - 🌱 Estudando Python, Ciência de Dados e Machine Learning
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Estudo sobre validação de modelos (Machine Learning / Data Science)
-- :open_book: Curso atual: Machine Learning - validação de modelos (Alura)
+- 🏚️ Projeto atual: Estudos introdutórios sobre Deep Learning, Keras e TensorFlow
+- :open_book: Curso atual: [Formação Machine Learning Avançada] Deep Learning parte 1: Keras, da Alura
 
 ##
 
@@ -13,10 +13,6 @@
 </div>
 
 ##
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathy&layout=compact&lang_count=16&theme=tokyonight"/>
-</div>
 
 <div>
   <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
