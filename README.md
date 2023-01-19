@@ -1,9 +1,9 @@
 ## Olá!
 
-- 🌱 Estudando Python, Ciência de Dados Machine Learning, Deep Learning
+- 🌱 Estudando Python, Ciência de Dados, Machine Learning, Deep Learning
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Estudos introdutórios sobre Deep Learning, Keras e TensorFlow
+- 🏚️ Projeto atual: Deep Learning, Classificação de roupas para e-commerce
 - :open_book: Curso atual: [Formação Machine Learning Avançada] Deep Learning parte 1: Keras, da Alura
 
 ##
