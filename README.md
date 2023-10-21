@@ -1,10 +1,10 @@
 ## Olá!
 
-- 🌱 Estudando Python, Ciência de Dados, Machine Learning, Deep Learning
+- 🌱 Estudando Python e Ciência de Dados
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
-- 🏚️ Projeto atual: Previsão de fluxo e clientes e aluguel de bicicletas
-- :open_book: Curso atual: [Formação Machine Learning Avançada] Deep Learning: previsão com Keras
+- 🏚️ Projeto atual: Análise sobre Microdados do Enem 2022
+- :open_book: Curso atual: 
 
 ##
 
