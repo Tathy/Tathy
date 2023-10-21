@@ -4,7 +4,7 @@
 - 📫 Contato: tassianacro@gmail.com
 - 😄 Pronomes: ela/dela
 - 🏚️ Projeto atual: Análise sobre Microdados do Enem 2022
-- :open_book: Curso atual: 
+- :open_book: Curso atual: Playlist: Análise de Dados em Python - Kizzy Terra, do canal Programação Dinâmica
 
 ##
 
